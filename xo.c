@@ -2,7 +2,7 @@
 #include <stdbool.h>
 
 #define board_size 3
-
+// test
 void init_board(char board[board_size][board_size])
 {
     for (int i = 0; i < board_size; i++)
